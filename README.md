@@ -24,7 +24,7 @@ To:
 - Track my learning publicly
 
 ## 📫 Connect with Me
-- [GitHub Profile]([https://github.com/your-username](https://github.com/barakath-l))
+- [GitHub Profile](https://github.com/barakath-l)
 - [LinkedIn](https://www.linkedin.com/in/barakathullah-l)
 
 ---
